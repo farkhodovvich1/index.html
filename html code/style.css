@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #fafafa;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 50px;
+    background: white;
+    border: 1px solid #dbdbdb;
+    width: 300px;
+    padding: 40px 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+}
+
+.instagram-logo {
+    width: 120px;
+    margin-bottom: 20px;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background: #fafafa;
+}
+
+button {
+    width: 95%;
+    padding: 10px;
+    background-color: #3897f0;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #3578e5;
+}
+
+a {
+    display: block;
+    margin-top: 10px;
+    color: #00376b;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.store-icons img {
+    width: 120px;
+    margin: 10px;
+}
+
+p {
+    font-size: 14px;
+    color: #8e8e8e;
+}
